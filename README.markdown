@@ -10,9 +10,9 @@ and simple manipulations with MySQL databases.
 Features
 --------
 
-- Keeps SQL queries history within the current session, very useful for
-  repeatable operations.
-- Provides VERY SIMPLE security protection: you can setup password to avoid
+- It keeps SQL queries history within the current session (very useful for
+  repeatable operations).
+- It provides VERY SIMPLE security protection: you can setup password to avoid
   malicious access. But it worth removing this script when you are done.
 - Written with basic mysql-functions. It works on PHP 5 and PHP 4.
 
@@ -21,6 +21,6 @@ Usage
 
 - Open pma.php in editor and write your database credentials: host, database
   name, username and password.
-- Change script access password also.
+- Also, change script access password.
 - Upload the file to web-directory.
 - Go to this script with proper URL in your browser.
