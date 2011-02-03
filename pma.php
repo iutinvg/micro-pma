@@ -2,9 +2,9 @@
 
 // setup
 define('DB_HOST', 'localhost');
-define('DB_USER', 'midoilw');
-define('DB_NAME', 'MO_Products');
-define('DB_PASS', '45produ367');
+define('DB_NAME', 'db-name');
+define('DB_USER', 'db-user');
+define('DB_PASS', 'db-pass');
 define('SCRIPT_PASS', 'passw0rd');
 
 session_start();
