@@ -1,4 +1,8 @@
 <?php
+/* 
+ * Copyright (c) 2011 Whirix <info@whirix.com>
+ * License: http://www.opensource.org/licenses/mit-license.html
+ */
 
 // setup
 define('DB_HOST', 'localhost');
