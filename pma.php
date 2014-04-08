@@ -14,6 +14,8 @@ define('SCRIPT_PASS', 'change me!!!');
 
 session_start();
 
+// test
+
 class PMA {
 
 	// create one log row
